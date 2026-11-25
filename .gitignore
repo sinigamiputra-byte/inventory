@@ -1,0 +1,10 @@
+# Folder library dari Composer (dipakai mulai minggu 15)
+vendor/
+
+# File sistem operasi
+Thumbs.db
+.DS_Store
+
+# Pengaturan editor
+.vscode/
+.idea/
